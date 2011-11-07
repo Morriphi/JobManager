@@ -1,0 +1,239 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/f:Global.asax.cs" caret="1142" fromTop="13" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Views/d:Job/f:Job.aspx" caret="295" fromTop="6" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:RouteTest.cs" caret="751" fromTop="23" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Views/d:Job/f:Details.aspx" caret="505" fromTop="14" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Controllers/f:JobController.cs" caret="205" fromTop="8" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Models/f:JobModel.cs" caret="125" fromTop="6" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:JobControllerTest.cs" caret="1431" fromTop="12" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:JobModelTest.cs" caret="256" fromTop="11" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Application/f:JobManagerControllerFactory.cs" caret="334" fromTop="10" />
+      <File id="04F65870-6C4B-4D0F-B100-B3947AE952F7/f:IJobService.cs" caret="0" fromTop="0" />
+      <File id="04F65870-6C4B-4D0F-B100-B3947AE952F7/f:Job.cs" caret="121" fromTop="6" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Application/f:IoCWireup.cs" caret="345" fromTop="13" />
+      <File id="9C7954FF-DA9D-4A41-9E4F-D5426B0C7A5D/f:JobService.cs" caret="0" fromTop="0" />
+      <File id="9C7954FF-DA9D-4A41-9E4F-D5426B0C7A5D/f:Program.cs" caret="190" fromTop="9" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Proxy/f:JobService.cs" caret="358" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/f:Global.asax.cs" caret="919" fromTop="9" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/f:Global.asax.cs" caret="67" fromTop="0" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:RouteTest.cs" caret="615" fromTop="17" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/f:Global.asax.cs" caret="517" fromTop="15" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/f:Global.asax.cs" caret="1143" fromTop="13" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:JobControllerTest.cs" caret="935" fromTop="9" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:JobControllerTest.cs" caret="332" fromTop="11" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Controllers/f:JobController.cs" caret="486" fromTop="14" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:JobControllerTest.cs" caret="1251" fromTop="3" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:JobControllerTest.cs" caret="1460" fromTop="18" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Views/d:Job/f:Job.aspx" caret="621" fromTop="13" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Views/d:Job/f:Details.aspx" caret="82" fromTop="0" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Views/d:Job/f:Details.aspx" caret="505" fromTop="14" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Controllers/f:JobController.cs" caret="205" fromTop="8" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Models/f:JobModel.cs" caret="125" fromTop="6" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:JobControllerTest.cs" caret="1463" fromTop="13" />
+      <File id="783DBB0C-74AA-444D-A630-A2F26846E8E3/f:JobModelTest.cs" caret="256" fromTop="11" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Proxy/f:JobService.cs" caret="321" fromTop="9" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Application/f:IoCWireup.cs" caret="325" fromTop="12" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Application/f:IoCWireup.cs" caret="101" fromTop="2" />
+      <File id="04F65870-6C4B-4D0F-B100-B3947AE952F7/f:IJobService.cs" caret="155" fromTop="7" />
+      <File id="04F65870-6C4B-4D0F-B100-B3947AE952F7/f:Job.cs" caret="91" fromTop="4" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Proxy/f:JobService.cs" caret="446" fromTop="16" />
+      <File id="9C7954FF-DA9D-4A41-9E4F-D5426B0C7A5D/f:Program.cs" caret="551" fromTop="9" />
+      <File id="9C7954FF-DA9D-4A41-9E4F-D5426B0C7A5D/f:Program.cs" caret="41" fromTop="1" />
+      <File id="9C7954FF-DA9D-4A41-9E4F-D5426B0C7A5D/f:Program.cs" caret="428" fromTop="13" />
+      <File id="6EAC7A9F-428E-4FB3-82BD-129229C0D252/d:Application/f:IoCWireup.cs" caret="598" fromTop="20" />
+      <File id="04F65870-6C4B-4D0F-B100-B3947AE952F7/f:Job.cs" caret="164" fromTop="8" />
+      <File id="9C7954FF-DA9D-4A41-9E4F-D5426B0C7A5D/f:Program.cs" caret="513" fromTop="17" />
+      <File id="9C7954FF-DA9D-4A41-9E4F-D5426B0C7A5D/f:JobService.cs" caret="189" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="382" />
+      <Item value="void" priority="287" />
+      <Item value="new" priority="862" />
+      <Item value="RouteCollection" priority="28" />
+      <Item value="routes" priority="159" />
+      <Item value="var" priority="127" />
+      <Item value="override" priority="287" />
+      <Item value="Assert`0" priority="447" />
+      <Item value="routeData" priority="65" />
+      <Item value="Is`0" priority="383" />
+      <Item value="HomeControllerTest`0" priority="31" />
+      <Item value="controller" priority="64" />
+      <Item value="HomeController" priority="28" />
+      <Item value="object" priority="119" />
+      <Item value="return" priority="351" />
+      <Item value="Controller`0" priority="31" />
+      <Item value="result" priority="97" />
+      <Item value="SetUp" priority="63" />
+      <Item value="_routes" priority="31" />
+      <Item value="FakeHttpContext" priority="28" />
+      <Item value="RouteData`0" priority="32" />
+      <Item value="_routeData" priority="64" />
+      <Item value="NavigateToRoute`0" priority="95" />
+      <Item value="RouteValue`0" priority="98" />
+      <Item value="_controller" priority="31" />
+      <Item value="ViewResult`0" priority="96" />
+      <Item value="ActionResult`0" priority="31" />
+      <Item value="View`0" priority="31" />
+      <Item value="Details`0" priority="31" />
+      <Item value="ViewData" priority="31" />
+      <Item value="JobModelTest`0" priority="31" />
+      <Item value="JobModel" priority="57" />
+      <Item value="ctor" priority="63" />
+      <Item value="_job" priority="31" />
+      <Item value="IJobService`0" priority="189" />
+      <Item value="_fakeJobService" priority="64" />
+      <Item value="ControllerBuilder`0" priority="31" />
+      <Item value="DefaultControllerFactory`0" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="controllerType" priority="62" />
+      <Item value="typeof" priority="93" />
+      <Item value="JobController" priority="28" />
+      <Item value="null" priority="127" />
+      <Item value="as" priority="31" />
+      <Item value="IController`0" priority="32" />
+      <Item value="ObjectFactory`0" priority="31" />
+      <Item value="obj" priority="31" />
+      <Item value="JobService`0" priority="65" />
+      <Item value="FakeJobService`0" priority="31" />
+      <Item value="_jobService" priority="31" />
+      <Item value="Job`0" priority="30" />
+      <Item value="id" priority="191" />
+      <Item value="Job" priority="115" />
+      <Item value="Html" priority="63" />
+      <Item value="Details" priority="32" />
+      <Item value="Model" priority="31" />
+      <Item value="EndpointAddress`0" priority="31" />
+      <Item value="endpointAddress" priority="64" />
+      <Item value="base" priority="31" />
+      <Item value="binding" priority="31" />
+      <Item value="JobService" priority="28" />
+      <Item value="NetTcpContextBinding" priority="57" />
+      <Item value="EndpointAddress" priority="28" />
+      <Item value="OperationContract" priority="31" />
+      <Item value="DataMember" priority="31" />
+      <Item value="value" priority="63" />
+      <Item value="_id" priority="31" />
+      <Item value="Channel" priority="31" />
+      <Item value="using" priority="31" />
+      <Item value="ServiceHost" priority="28" />
+      <Item value="host" priority="63" />
+      <Item value="ServiceEndpoint" priority="57" />
+      <Item value="ContractDescription" priority="28" />
+      <Item value="SecurityMode`0" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@JobManager.MvcApplication">
+      <Item value="RegisterRoutes`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteCollection">
+      <Item value="GetRouteData`0" priority="53" />
+      <Item value="IgnoreRoute`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="350" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteData">
+      <Item value="Values" priority="83" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo`0" priority="215" />
+      <Item value="InstanceOf`1" priority="80" />
+      <Item value="Not" priority="26" />
+      <Item value="Null" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewResult">
+      <Item value="View" priority="27" />
+      <Item value="ViewName" priority="55" />
+      <Item value="ViewData" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="AspCodeCompletionContext">
+      <Item value="h2" priority="13" />
+      <Item value="ul" priority="6" />
+      <Item value="li" priority="6" />
+      <Item value="h4" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewDataDictionary">
+      <Item value="Model" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobManager.Job">
+      <Item value="Id" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.ControllerBuilder">
+      <Item value="Current" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ControllerBuilder">
+      <Item value="SetControllerFactory`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StructureMap.ObjectFactory">
+      <Item value="ForGenericType`0" priority="26" />
+      <Item value="Container" priority="26" />
+      <Item value="GetInstance`0" priority="26" />
+      <Item value="Initialize`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IInitializationExpression">
+      <Item value="For`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Configuration.DSL.Expressions.CreatePluginFamilyExpression`1">
+      <Item value="Use`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobManager.IJobService">
+      <Item value="GetJob`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobManager.Models.JobModel">
+      <Item value="JobId`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="ActionLink`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JobManager.Interface.IJobService">
+      <Item value="GetJob`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.ServiceHost">
+      <Item value="SetEndpointAddress`0" priority="26" />
+      <Item value="AddServiceEndpoint`0" priority="26" />
+      <Item value="Open`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.SecurityMode">
+      <Item value="None" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="JobManager.UnitTest.JobControllerTest" type="NUnitTestFixtureElement" Project="783DBB0C-74AA-444D-A630-A2F26846E8E3" />
+        <UnitTestElement Provider="nUnit" Id="JobManager.UnitTest.JobModelTest" type="NUnitTestFixtureElement" Project="783DBB0C-74AA-444D-A630-A2F26846E8E3" />
+        <UnitTestElement Provider="nUnit" Id="JobManager.UnitTest.RouteTest" type="NUnitTestFixtureElement" Project="783DBB0C-74AA-444D-A630-A2F26846E8E3" />
+        <UnitTestElement Provider="nUnit" Id="JobManager.UnitTest.JobModelTest.GetJobId" ParentId="JobManager.UnitTest.JobModelTest" type="NUnitTestElement" TypeName="JobManager.UnitTest.JobModelTest" MethodName="GetJobId" Project="783DBB0C-74AA-444D-A630-A2F26846E8E3" />
+        <UnitTestElement Provider="nUnit" Id="JobManager.UnitTest.JobControllerTest.ShouldGoToJobDetailsPage" ParentId="JobManager.UnitTest.JobControllerTest" type="NUnitTestElement" TypeName="JobManager.UnitTest.JobControllerTest" MethodName="ShouldGoToJobDetailsPage" Project="783DBB0C-74AA-444D-A630-A2F26846E8E3" />
+        <UnitTestElement Provider="nUnit" Id="JobManager.UnitTest.JobControllerTest.ShouldGoToJobListPage" ParentId="JobManager.UnitTest.JobControllerTest" type="NUnitTestElement" TypeName="JobManager.UnitTest.JobControllerTest" MethodName="ShouldGoToJobListPage" Project="783DBB0C-74AA-444D-A630-A2F26846E8E3" />
+        <UnitTestElement Provider="nUnit" Id="JobManager.UnitTest.RouteTest.ShouldIgnoreRequestForFavIcon" ParentId="JobManager.UnitTest.RouteTest" type="NUnitTestElement" TypeName="JobManager.UnitTest.RouteTest" MethodName="ShouldIgnoreRequestForFavIcon" Project="783DBB0C-74AA-444D-A630-A2F26846E8E3" />
+        <UnitTestElement Provider="nUnit" Id="JobManager.UnitTest.RouteTest.ShouldNavigateToJobDetailsPage" ParentId="JobManager.UnitTest.RouteTest" type="NUnitTestElement" TypeName="JobManager.UnitTest.RouteTest" MethodName="ShouldNavigateToJobDetailsPage" Project="783DBB0C-74AA-444D-A630-A2F26846E8E3" />
+        <UnitTestElement Provider="nUnit" Id="JobManager.UnitTest.RouteTest.ShouldNavigateToJobList" ParentId="JobManager.UnitTest.RouteTest" type="NUnitTestElement" TypeName="JobManager.UnitTest.RouteTest" MethodName="ShouldNavigateToJobList" Project="783DBB0C-74AA-444D-A630-A2F26846E8E3" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+</Configuration>
